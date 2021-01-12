@@ -1,9 +1,9 @@
 
 
 ### Hi there, I'm Monique Marins  👋
-## I'm a Data Scientist!
+#### I'm a Data Scientist!
 
-<img align="center" alt="GIF" src="https://media3.giphy.com/media/3ohzdXIKl0BjNK2g3m/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/QsVWEYIn29fkAvwdA0/giphy.gif" />
 
 
 - Based in Copenhagen - DK 🇩🇰
@@ -25,26 +25,15 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pytorch.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachespark.svg" />
-
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elasticsearch.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kibana.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
-
-
-
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 <img align="left" alt="Google Analytics" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg" />
-
-
 <br />
 <br />
-
-### 📕 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 ![Profile views](https://gpvc.arturio.dev/MLMarins)
 
