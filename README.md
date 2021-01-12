@@ -3,7 +3,7 @@
 ### Hi there, I'm Monique Marins  👋
 #### I'm a Data Scientist!
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/QsVWEYIn29fkAvwdA0/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif" />
 
 
 - Based in Copenhagen - DK 🇩🇰
