@@ -7,6 +7,8 @@
 
 
 - Based in Copenhagen - DK 🇩🇰
+- Empowering other women in tech. I'm a mentor at [Women in Tech DK](https://www.womenintech.dk/) 👩‍💻
+- Support young brilliant minds in tech. I'm a mentor for Data Science/AI at [TechLabs](https://www.techlabs.org/) 🤖
 - A strong believer in data-driven decision making 🚀 
 
 ### Connect with me:
